@@ -1,5 +1,3 @@
-<img align="right" width="300" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNDJ1MmdmZHVpMTlzcnJvZ3Y1Z3lvOHVnbGhjaHk5M2MxNzRoYWF5ZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3oKIPnAiaMCws8nOsE/giphy.gif">
-
 # Oi, I'm Franz 👋
 
 I'm a web developer, and a professional *tolongges*. 
@@ -19,5 +17,7 @@ I'm a web developer, and a professional *tolongges*.
 
 ## 🍻 Say Hi!
 Always down to talk about robust data architecture, web apps, and cats.
-
 *(Feel free to reach out, shoot me an email!)*
+
+
+<img height="100px" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNDJ1MmdmZHVpMTlzcnJvZ3Y1Z3lvOHVnbGhjaHk5M2MxNzRoYWF5ZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3oKIPnAiaMCws8nOsE/giphy.gif">
