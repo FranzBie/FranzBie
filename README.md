@@ -15,4 +15,4 @@ I'm a web developer, and a professional *tolongges*.
 
 ---
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=FranzBie&theme=transparent&hide_border=true&card_width=1080&card_height=300&sideLabels=EBEBEB&sideNums=EBEBEB&currStreakNum=EBEBEB&currStreakLabel=EBE7E8&fire=EB9422&ring=EBEBEB)](https://git.io/streak-stats)
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=FranzBie&theme=cobalt&border_radius=50&card_width=1080&sideLabels=EBEBEB&sideNums=EBEBEB&currStreakNum=EBEBEB&currStreakLabel=EBE7E8&fire=EB9422&ring=EBEBEB" alt="GitHub Streak" /></a>
