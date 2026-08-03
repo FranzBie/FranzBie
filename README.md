@@ -1,4 +1,4 @@
-# Oi, I'm Franz 👋
+# Hoy, I'm Franz
 
 I'm a web developer, and a professional *tolongges*. 
 
@@ -15,9 +15,4 @@ I'm a web developer, and a professional *tolongges*.
 
 ---
 
-## 🍻 Say Hi!
-Always down to talk about robust data architecture, web apps, and cats.
-*(Feel free to reach out, shoot me an email!)*
-
-
-<img height="100px" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNDJ1MmdmZHVpMTlzcnJvZ3Y1Z3lvOHVnbGhjaHk5M2MxNzRoYWF5ZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3oKIPnAiaMCws8nOsE/giphy.gif">
+[![GitHub Streak](https://streak-stats.demolab.com?user=FranzBie&theme=transparent&hide_border=true&card_width=1080&card_height=300&sideLabels=EBEBEB&sideNums=EBEBEB&currStreakNum=EBEBEB&currStreakLabel=EBE7E8&fire=EB9422&ring=EBEBEB)](https://git.io/streak-stats)
