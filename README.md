@@ -16,4 +16,8 @@ I'm a web developer, and a professional *tolongges*.
 
 ---
 
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=FranzBie&theme=cobalt&border_radius=50&card_width=1080&sideLabels=EBEBEB&sideNums=EBEBEB&currStreakNum=EBEBEB&currStreakLabel=EBE7E8&fire=EB9422&ring=EBEBEB" alt="GitHub Streak" /></a>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/FranzBie/FranzBie/output/github-contribution-grid-snake-dark.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/FranzBie/FranzBie/output/github-contribution-grid-snake.svg">
+</picture>
+
