@@ -1,5 +1,5 @@
 Hoy, I'm <br>
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&duration=8000&pause=1000&color=F7F7F7&repeat=false&width=435&lines=Franz+Arman+Joshua+Bie" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Roboto+Condensed&weight=900&size=35&pause=1000&color=2DDA00&vCenter=true&repeat=false&random=true&width=436&lines=FRANZ+ARMAN+JOSHUA+BIE" alt="Typing SVG" /></a>
 
 I'm a web developer, and a professional *tolongges*. 
 
